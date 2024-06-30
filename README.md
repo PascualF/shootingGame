@@ -4,10 +4,10 @@ Some steps to make this game:
 1-Project Setup (OK)
 2-Create the player (OK)
 3-Move the player (OK)
-4-Create the projectiles
-5-Create an invader
-6-Create and move grids of invader
-7-Spawn grids at intervals
+4-Create the projectiles (OK)
+5-Create an invader (OK)
+6-Create and move grids of invader (0)
+7-Spawn grids at intervals (0)
 8-Shoot invaders
 9-Invaders shoot back
 10-Enemy explosions
